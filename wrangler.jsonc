@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "web-piexl2210",
+  "upload_source_maps": true,
+  "observability": {
+    "enabled": true
+  },
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "piexlAIO",
+      "database_id": "7c30734d-e304-4e6d-b123-c80581003f90"
+    }
+  ]
+}
